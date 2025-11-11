@@ -18,4 +18,5 @@ workflows:
     publishing:
       email:
         recipients:
-          - "renatoreh54@gmail.com"
+          - renatoreh54@gmail.com
+
